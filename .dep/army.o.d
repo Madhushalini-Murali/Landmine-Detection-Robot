@@ -1,0 +1,1 @@
+army.o: army.c
